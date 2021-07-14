@@ -1,4 +1,4 @@
-# Sentiments-Anaylsis-about-COVID-19
+# Sentiments-Anaylsis-COVID-19
 We are doing sentiment anaylsis using tweets which have specific hashtags related to the disease.
 
 In the first notebook (Clean & Anaylsis) : we did some cleanning to the tweets and tried to understand the data and the problem.
